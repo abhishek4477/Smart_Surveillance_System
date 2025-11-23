@@ -1,0 +1,24 @@
+2025-04-23 10:07:45,996 - __main__ - INFO - OmniSight application started
+2025-04-23 10:08:09,641 - __main__ - INFO - OmniSight application closed
+2025-04-23 10:24:45,456 - __main__ - INFO - OmniSight application started
+2025-04-23 10:24:48,715 - __main__ - ERROR - Error launching Crowd Management System: No module named 'crowd_management'
+2025-04-23 10:24:53,529 - __main__ - INFO - Attendance System launched
+2025-04-23 10:29:52,358 - __main__ - INFO - OmniSight application started
+2025-04-23 10:30:12,070 - __main__ - INFO - Crowd Management System launched
+2025-04-23 10:36:08,899 - __main__ - INFO - OmniSight application started
+2025-04-23 10:36:21,504 - __main__ - INFO - Crowd Management System launched
+2025-04-23 10:45:43,720 - __main__ - INFO - OmniSight application closed
+2025-04-23 10:48:53,295 - __main__ - INFO - OmniSight application started
+2025-04-23 10:48:56,801 - __main__ - INFO - Attendance System launched
+2025-04-23 10:49:00,874 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 11:05:24,492 - __main__ - INFO - OmniSight application started
+2025-04-23 11:05:27,616 - __main__ - INFO - Crowd Management System launched
+2025-04-23 11:05:37,523 - __main__ - INFO - OmniSight application closed
+2025-04-23 11:09:22,109 - __main__ - INFO - OmniSight application started
+2025-04-23 11:13:11,389 - __main__ - INFO - OmniSight application closed
+2025-04-23 11:13:38,752 - __main__ - INFO - OmniSight application started
+2025-04-23 11:13:46,796 - __main__ - INFO - New Crowd Management System launched
+2025-04-23 11:13:58,845 - __main__ - INFO - New Crowd Management System launched
+2025-04-23 11:17:38,565 - __main__ - INFO - OmniSight application started
+2025-04-23 11:17:42,249 - __main__ - ERROR - Error launching Crowd Management System: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-04-23 11:18:12,994 - __main__ - INFO - Behavior Analysis System launched

@@ -1,0 +1,27 @@
+2025-04-23 09:12:54,612 - __main__ - INFO - OmniSight application started
+2025-04-23 09:13:09,022 - __main__ - ERROR - Error launching Attendance System: AttendanceUI.__init__() takes 2 positional arguments but 3 were given
+2025-04-23 09:13:36,123 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 09:14:07,017 - __main__ - INFO - OmniSight application closed
+2025-04-23 09:20:46,382 - __main__ - INFO - OmniSight application started
+2025-04-23 09:21:36,356 - __main__ - ERROR - Error launching Attendance System: 'Toplevel' object has no attribute 'slot_start'
+2025-04-23 09:27:08,556 - __main__ - INFO - OmniSight application started
+2025-04-23 09:27:17,948 - __main__ - ERROR - Error launching Attendance System: AttendanceUI.__init__() takes 2 positional arguments but 3 were given
+2025-04-23 09:28:47,578 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 09:30:58,823 - __main__ - INFO - OmniSight application started
+2025-04-23 09:31:14,862 - __main__ - INFO - Attendance System launched
+2025-04-23 09:35:54,122 - __main__ - INFO - OmniSight application started
+2025-04-23 09:36:01,997 - __main__ - ERROR - Error launching Attendance System: AttendanceUI.__init__() takes 2 positional arguments but 3 were given
+2025-04-23 09:38:48,980 - __main__ - INFO - OmniSight application started
+2025-04-23 09:39:02,062 - __main__ - INFO - Attendance System launched
+2025-04-23 09:40:20,127 - __main__ - INFO - Attendance System launched
+2025-04-23 12:29:44,799 - __main__ - INFO - OmniSight application started
+2025-04-23 12:29:50,717 - __main__ - INFO - Attendance System launched
+2025-04-23 12:30:29,497 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 12:43:57,133 - __main__ - INFO - OmniSight application started
+2025-04-23 12:44:10,007 - __main__ - INFO - Attendance System launched
+2025-04-23 12:45:39,246 - __main__ - ERROR - Error launching Crowd Management System: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2025-04-23 12:46:58,370 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 13:17:38,155 - __main__ - INFO - OmniSight application started
+2025-04-23 13:20:05,247 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 13:25:57,482 - __main__ - INFO - Behavior Analysis System launched
+2025-04-23 13:27:06,816 - __main__ - INFO - Attendance System launched

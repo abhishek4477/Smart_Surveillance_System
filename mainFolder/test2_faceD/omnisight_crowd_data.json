@@ -1,0 +1,46 @@
+{
+    "crowd_data": [
+        {
+            "timestamp": "2025-04-23 11:13:49",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        },
+        {
+            "timestamp": "2025-04-23 11:13:56",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        },
+        {
+            "timestamp": "2025-04-23 11:14:01",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        },
+        {
+            "timestamp": "2025-04-23 11:14:06",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        },
+        {
+            "timestamp": "2025-04-23 11:14:12",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        },
+        {
+            "timestamp": "2025-04-23 11:14:17",
+            "people_count": 0,
+            "location": "main_entrance",
+            "status": "active",
+            "alert_level": "LOW"
+        }
+    ]
+}

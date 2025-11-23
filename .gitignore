@@ -5,3 +5,4 @@ mainFolder/unwanted_folder/
 data/
 omnisight_data/
 embeddings/
+.gitignore
